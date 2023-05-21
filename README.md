@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atila Guler</h1>
+<h1 align="center">Hi, I'm Atila Guler</h1>
 <!-- <h3 align="center">A passionate frontend developer from Turkey</h3> -->
 
 <!-- ![](https://media.tenor.com/_b88BmIl_GcAAAAC/crow-bird.gif -->
